@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://adityak11.github.io/portfolio/</link>
-    <description>Recent content on </description>
+    <title>Experiences on </title>
+    <link>https://adityak11.github.io/portfolio/experience/</link>
+    <description>Recent content in Experiences on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 10 Dec 2024 03:41:40 -0500</lastBuildDate>
-    <atom:link href="https://adityak11.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adityak11.github.io/portfolio/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skiena_ra</title>
       <link>https://adityak11.github.io/portfolio/experience/skiena_ra/</link>
