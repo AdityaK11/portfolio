@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/es/</loc>
+    <loc>https://adityak11.github.io/portfolio/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/"
+                href="https://adityak11.github.io/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/portfolio/fr/"
+                href="https://adityak11.github.io/portfolio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/portfolio/es/"
+                href="https://adityak11.github.io/portfolio/es/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/es/categories/</loc>
+    <loc>https://adityak11.github.io/portfolio/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/categories/"
+                href="https://adityak11.github.io/portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/portfolio/fr/categories/"
+                href="https://adityak11.github.io/portfolio/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/portfolio/es/categories/"
+                href="https://adityak11.github.io/portfolio/es/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/es/tags/</loc>
+    <loc>https://adityak11.github.io/portfolio/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/tags/"
+                href="https://adityak11.github.io/portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/portfolio/fr/tags/"
+                href="https://adityak11.github.io/portfolio/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/portfolio/es/tags/"
+                href="https://adityak11.github.io/portfolio/es/tags/"
                 />
   </url>
 </urlset>
